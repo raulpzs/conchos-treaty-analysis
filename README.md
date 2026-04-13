@@ -1,7 +1,6 @@
 # Rio Conchos Water Crisis: A 110-Year Decomposition
 
-**Author:** Raul Alejandro Pérez Saucedo  
-**Affiliation:** Independent researcher, Chihuahua, Mexico  
+**Author:** Raul Alejandro Pérez Saucedo
 **Status:** Working draft, April 2026  
 **Contact:** raulpzs@outlook.com
 
@@ -9,17 +8,17 @@
 
 ## What this project is
 
-The 1944 Water Treaty between Mexico and the United States requires Mexico to deliver an average of 350,000 acre-feet of water per year from the Rio Conchos and other tributaries into the Rio Grande. In 2025, Mexico ended its most recent five-year delivery cycle having sent only 50% of what it owed — the worst shortfall in treaty history, triggering U.S. tariff threats and an emergency bilateral agreement. Both governments have reached for climate change as the primary explanation.
+The 1944 Water Treaty between Mexico and the United States requires Mexico to deliver an average of 350,000 acre-feet of water per year from the Rio Conchos and other tributaries into the Rio Grande. In 2025, Mexico ended its most recent five-year delivery cycle having sent only 50% of what it owed. It's the worst shortfall in treaty history, triggering U.S. tariff threats and an emergency bilateral agreement. Both governments have reached for climate change as the primary explanation.
 
 This project tests that explanation against 110 years of data.
 
-Using reconstructed naturalized and regulated streamflow records for the Rio Conchos at Ojinaga (1901–2010), it decomposes Mexico's recurring delivery failures into their constituent causes: natural water availability versus upstream agricultural extraction. The findings suggest that the treaty's current failure cannot be understood through climate alone — historical extraction and allocation patterns made the system structurally fragile long before the present climate crisis arrived.
+Using reconstructed naturalized and regulated streamflow records for the Rio Conchos at Ojinaga (1901–2010), it decomposes Mexico's recurring delivery failures into their constituent causes: natural water availability versus upstream agricultural extraction. The findings suggest that the treaty's current failure cannot be understood through climate alone. Historical extraction and allocation patterns made the system structurally fragile long before the present climate crisis arrived.
 
 ---
 
-## Core finding
+## Core findings
 
-Natural flow at the Ojinaga gauge — representing the water the Rio Conchos basin produces before human extraction — exceeded the treaty's annual target in **every single year** of the 110-year record. Regulated flow — the water that actually reaches the border — fell below the same target in **20 years**, all concentrated in the post-1950 period as irrigated agriculture expanded. The share of natural flow captured before reaching the border grew from **24% in the pre-treaty period** to **72% after 1990**.
+Natural flow at the Ojinaga gauge, which is the water the Rio Conchos basin produces before human extraction, exceeded the treaty's annual target in **every single year** of the 110-year record. Regulated flow, the water that actually reaches the border, fell below the same target in **20 years**, all concentrated in the post-1950 period as irrigated agriculture expanded. The share of natural flow captured before reaching the border grew from **24% in the pre-treaty period** to **72% after 1990**.
 
 The basin has always had enough water. The crisis is a delivery failure, not a supply failure.
 
