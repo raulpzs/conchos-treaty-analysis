@@ -9,18 +9,19 @@ Author: Raul Alejandro Pérez Saucedo
 """
 
 import pandas as pd
-import sys
 import os
+import sys
+from pathlib import Path
 
-# Add src to path so we can import processing functions
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'src'))
-from processing import (
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
+
+from src.processing import (
     load_flow_csv, water_year_total, compute_capture, decade_summary
 )
 
-# ── File paths ─────────────────────────────────────────────────────────
-RAW = 'data/raw'
-PROCESSED = 'data/processed'
+BASE_DIR = Path(__file__).resolve().parents[1]
+RAW = BASE_DIR / "data" / "raw"
+PROCESSED = BASE_DIR / "data" / "processed"
 
 FILES = {
     'ojinaga_nat': (f'{RAW}/Ojinaga_monthly_natural_streamflow.csv',    'latin-1'),
