@@ -1,7 +1,6 @@
 # Rio Conchos Water Crisis: A 110-Year Decomposition
 
 **Author:** Raul Alejandro Pérez Saucedo
-**Status:** Working draft, April 2026  
 **Contact:** raulpzs@outlook.com
 
 ---
@@ -12,7 +11,7 @@ The 1944 Water Treaty between Mexico and the United States requires Mexico to de
 
 This project tests that explanation against 110 years of data.
 
-Using reconstructed naturalized and regulated streamflow records for the Rio Conchos at Ojinaga (1901–2010), it decomposes Mexico's recurring delivery failures into their constituent causes: natural water availability versus upstream agricultural extraction. The findings suggest that the treaty's current failure cannot be understood through climate alone. Historical extraction and allocation patterns made the system structurally fragile long before the present climate crisis arrived.
+Using reconstructed naturalized and regulated streamflow records for the Rio Conchos at Ojinaga (1901–2010), it decomposes Mexico's recurring delivery failures into its causes: natural water availability versus upstream agricultural extraction. The findings suggest that the treaty's current failure cannot be explained solely through climate change, historical extraction and allocation patterns made the system structurally fragile long before the present climate crisis arrived.
 
 ---
 
@@ -28,12 +27,12 @@ The basin has always had enough water. The crisis is a delivery failure, not a s
 
 | Dataset | Source | Period |
 |---------|--------|--------|
-| Naturalized & regulated monthly streamflow, Rio Conchos at Ojinaga | [CUAHSI HydroShare](https://www.hydroshare.org/resource/89728c8779c644d7a6ce110406516849/) — Garza Díaz (2021/2022) | 1900–2010 |
+| Naturalized & regulated monthly streamflow, Rio Conchos at Ojinaga | [CUAHSI HydroShare](https://www.hydroshare.org/resource/89728c8779c644d7a6ce110406516849/) — Garza Díaz (2022) | 1900–2010 |
 | Naturalized & regulated monthly streamflow, Above Amistad | Same HydroShare resource | 1900–2010 |
 | Treaty cycle delivery data (2020–2025) | [IBWC Water Data](https://www.ibwc.gov/water-data/) | 2020–2025 |
 | Amistad-Falcon reservoir ownership | IBWC Water Data | 1996–present |
 
-**Important limitation:** The naturalized flow dataset ends in 2010. The 2011–2025 period — including the current crisis — cannot be decomposed using this methodology. See the methods appendix in `brief/` for full discussion.
+**Important limitation:** The naturalized flow dataset ends in 2010. The 2011–2025 period cannot be decomposed using this methodology. See the methods appendix in `brief/` for full discussion.
 
 ---
 
@@ -77,17 +76,11 @@ All figures in `figures/` are fully reproducible from the raw data files in `dat
 
 ---
 
-## Policy brief
-
-A working draft of the full policy brief — including executive summary (English and Spanish), background, findings, policy implications, and methods appendix — is in `brief/conchos_policy_brief_draft.md`.
-
----
-
 ## Citation
 
 If you use this data or analysis, please cite:
 
-> Pérez Saucedo, R.A. (2026). *Rio Conchos water crisis: a 110-year decomposition of natural availability and agricultural extraction under the 1944 Water Treaty*. Working paper. Available at: github.com/raulpzs/conchos-treaty-analysis
+> Pérez Saucedo, R.A. (2026). *A decomposition of natural availability and extraction of the Rio Conchos under the 1944 US-Mexico Water Treaty*. Working paper. Available at: github.com/raulpzs/conchos-treaty-analysis
 
 And the underlying dataset:
 
