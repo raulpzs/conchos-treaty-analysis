@@ -17,9 +17,9 @@ Using reconstructed naturalized and regulated streamflow records for the Rio Con
 
 ## Core findings
 
-Natural flow at the Ojinaga gauge, which is the water the Rio Conchos basin produces before human extraction, exceeded the treaty's annual target in **every single year** of the 110-year record. Regulated flow, the water that actually reaches the border, fell below the same target in **20 years**, all concentrated in the post-1950 period as irrigated agriculture expanded. The share of natural flow captured before reaching the border grew from **24% in the pre-treaty period** to **72% after 1990**.
+In the reconstructed 1900–2010 record, natural flow at the Ojinaga gauge, which is the water the Rio Conchos basin produces before human extraction, exceeded the treaty's annual target in **every single year** of the 110-year record. Regulated flow, the water that actually reaches the border, fell below the same target in **20 years**, all concentrated in the post-1950 period as irrigated agriculture expanded. The share of natural flow captured before reaching the border grew from **24% in the pre-treaty period** to **72% after 1990**.
 
-The basin has always had enough water. The crisis is a delivery failure, not a supply failure.
+The modern treaty crisis is not only climate stress, but also long-run allocation and extraction patterns.
 
 ---
 
