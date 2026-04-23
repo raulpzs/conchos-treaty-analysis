@@ -7,7 +7,7 @@
 
 ## What this project is
 
-The 1944 Water Treaty between Mexico and the United States requires Mexico to deliver an average of 350,000 acre-feet of water per year from the Rio Conchos and other tributaries into the Rio Grande. In 2025, Mexico ended its most recent five-year delivery cycle having sent only 50% of what it owed. It's the worst shortfall in treaty history, triggering U.S. tariff threats and an emergency bilateral agreement. Both governments have reached for climate change as the primary explanation.
+The 1944 Water Treaty between Mexico and the United States requires Mexico to deliver an average of 350,000 acre-feet of water per year from the Rio Conchos and other tributaries into the Rio Grande. In 2025, Mexico ended its most recent five-year delivery cycle having sent only 50% of what it owed. It's the worst shortfall in recent treaty history, triggering U.S. tariff threats and an emergency bilateral agreement. Both governments have reached for climate change as the primary explanation.
 
 This project tests that explanation against 110 years of data.
 
